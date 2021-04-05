@@ -14,10 +14,9 @@
       "Name": "Schauer",
       "Description": "Sample",
       "Image": "https://microsoft.github.io/customlearning_staging/sss/v4/en-us/images/categories/AddSSS.png",
-      "ProvisionUrl": "https://provisioning-test.sharepointpnp.com/details/0b860749-56a0-4c4c-992c-536d56d9accf",
-      "CdnBase": "https://microsoft.github.io/customlearning_staging/sss/"
+
+      "CdnBase": "https://github.com/mschauer5/contentpack/"
     }
   ],
-  "AssetOrigins": ["https://support.office.com", "https://docs.microsoft.com"],
-  "Languages": ["en-US", "de-DE", "es-ES", "fr-FR", "it-IT", "ja-JP", "nl-NL", "pt-BR", "ru-RU", "zh-CN"]
+  "AssetOrigins": ["https://support.office.com", "https://docs.microsoft.com"]
 }
