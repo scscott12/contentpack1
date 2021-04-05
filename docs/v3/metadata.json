@@ -1,0 +1,92 @@
+{
+  "Technologies": [
+    {
+      "Id": "860eb443-491b-467b-8d30-05d76e32b358",
+      "Name": "Pokemon Go",
+      "Subjects": [
+        {
+          "Id": "7aac97d2-fc5a-490c-bf8a-0fe2f68d3eac",
+          "Name": "Catching"
+        },
+        {
+          "Id": "c38801a2-7ee8-4e12-8aea-686fc8f75720",
+          "Name": "Raids"
+        },
+        {
+          "Id": "3e9d27e3-e2c3-46f4-9879-739cd7ed1b11",
+          "Name": "Battle League"
+        },
+        {
+          "Id": "db5418e5-6e19-48af-a29f-e239838f8dd8",
+          "Name": "Gyms"
+        }
+      ]
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "6db7e2d5-b8b1-4772-bcbd-3aea8247da42",
+      "Name": "Getting started in Pokemon Go",
+      "Image": "",
+      "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
+      "SubjectId": "",
+      "Source": "EdHild",
+      "SubCategories": [
+        {
+          "Id": "3bf87d98-45f5-4c51-b34c-2c651e3caa06",
+          "Name": "Opening Moves",
+          "Image": "images/categories/go.png",
+          "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
+          "SubjectId": "7aac97d2-fc5a-490c-bf8a-0fe2f68d3eac",
+          "Source": "EdHild",
+          "SubCategories": []
+        },
+        {
+          "Id": "c51b4be5-a237-4d79-a08c-e6830ebea4be",
+          "Name": "Fundamentals",
+          "Image": "images/categories/go.png",
+          "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
+          "SubjectId": "db5418e5-6e19-48af-a29f-e239838f8dd8",
+          "Source": "EdHild",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "e2b55f92-726d-414f-9c5c-2b45d009e82f",
+      "Name": "Player"
+    }
+  ],
+  "Sources": ["EdHild"],
+  "Levels": [
+    {
+      "Id": "5a958086-473d-46b3-92eb-c1e09c34263c",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "7e98bcb4-85bd-4b78-9823-3283dab21064",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "164d99ed-c638-4dbb-8295-781312dee721",
+      "Name": "New"
+    }
+  ],
+  "Telemetry": {},
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.0",
+    "RepoURL": "hhttps://github.com/mschauer5/contentpack1"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": ["https://www.ign.com/"]
+}

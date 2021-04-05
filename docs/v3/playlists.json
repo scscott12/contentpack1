@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "b5574577-4583-487e-998b-99ba7392b35f",
+    "Title": "Getting Started in Pokemon Go",
+    "Image": "images/playlists/start.png",
+    "LevelId": "27f4c5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "e2b55f92-726d-414f-9c5c-2b45d009e82f",
+    "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
+    "SubjectId": "7aac97d2-fc5a-490c-bf8a-0fe2f68d3eac",
+    "Source": "EdHild",
+    "CatId": "3bf87d98-45f5-4c51-b34c-2c651e3caa06",
+    "Description": "Get up and running quickly with Pokemon Go",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": ["b11ee79c-2baa-4d16-b5b4-9fbedee43651", "d79ba31b-dd45-48ba-8409-1998007f03c6", "6aa58756-69a3-4438-99b9-ae04795390a5", "5f139dcd-9892-4d96-9e5b-160f7e1a5404", "a215c50b-6c85-4063-8d5e-bc7a7e36d8a4", "497f54bc-19ce-46c0-9354-3194abdcd70b"]
+  },
+  {
+    "Id": "1f5b2479-7629-4fd7-a642-cf29f64f0cb5",
+    "Title": "Leading a Gym in Pokemon Go",
+    "Image": "images/playlists/gym.png",
+    "LevelId": "27f4c5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "e2b55f92-726d-414f-9c5c-2b45d009e82f",
+    "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
+    "SubjectId": "db5418e5-6e19-48af-a29f-e239838f8dd8",
+    "Source": "EdHild",
+    "CatId": "c51b4be5-a237-4d79-a08c-e6830ebea4be",
+    "Description": "Battle rivals at local landmarks and dominate the competition.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": ["497f54bc-19ce-46c0-9354-3194abdcd70b", "1676b4c7-d4d5-4d7f-9680-c8bd873d2c04", "c2445668-5b84-435c-9156-33d49f4f462e", "c95104c4-859f-46d7-a7dc-a804fbaa6b96"]
+  }
+]
