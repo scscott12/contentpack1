@@ -39,9 +39,8 @@
           "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
           "SubjectId": "7aac97d2-fc5a-490c-bf8a-0fe2f68d3eac",
           "Source": "EdHild",
-          "SubCategories": []
-        },
-        {
+          "SubCategories": [
+          {
           "Id": "c51b4be5-a237-4d79-a08c-e6830ebea4be",
           "Name": "Fundamentals",
           "Image": "images/categories/go.png",
@@ -50,6 +49,9 @@
           "Source": "EdHild",
           "SubCategories": []
         }
+          ]
+        },
+        
       ]
     }
   ],
